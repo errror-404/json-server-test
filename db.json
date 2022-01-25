@@ -1,0 +1,62 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "titulo": "Terminar aplicacion web",
+      "descripcion": "Terminar aplicacion web",
+      "categoria": "Tareas"
+    },
+    {
+      "id": 3,
+      "titulo": "Terminar Store web",
+      "descripcion": "Terminar Store web",
+      "categoria": "Finanzas"
+    },
+    {
+      "titulo": "prueba",
+      "descripcion": "esta es una prueba",
+      "categoria": "Trabajo",
+      "id": 4
+    },
+    {
+      "titulo": "cccc",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel odio consequat, gravida nisl sed, pharetra leo. Quisque volutpat odio nec ex hendrerit, at finibus justo tincidunt. Cras at arcu ultricies, auctor lorem nec, tempus tortor. Vestibulum tempor magna fringilla ante laoreet congue. Ut suscipit enim et nisi bibendum posuere. Integer ut congue erat. Sed tristique euismod ligula sit amet hendrerit.\n\nMaecenas vel ante quis quam ultricies tincidunt sit amet non ex. Vivamus in orci lobortis, laoreet ligula in, luctus lacus. Sed nec mattis erat. Ut nec massa diam. Integer ultricies in ante et luctus. Praesent tempus placerat quam, vel efficitur elit ornare quis. Suspendisse diam elit, lacinia vel quam quis, convallis posuere augue. Phasellus sit amet eros ac urna condimentum dictum quis ut metus. Morbi sapien ante, pulvinar sit amet efficitur vel, molestie sit amet lorem. Donec vel pretium massa. Sed eget lectus sed ex gravida tempor quis at diam. Nunc vitae turpis varius, posuere arcu sed, ultricies eros. Cras tincidunt non dolor eu lobortis. Pellentesque egestas, ligula et hendrerit aliquam, nisl metus gravida turpis, non mollis dui velit nec urna.",
+      "categoria": "Finanzas",
+      "id": 6
+    },
+    {
+      "titulo": "sc",
+      "descripcion": "Maecenas vel ante quis quam ultricies tincidunt sit amet non ex. Vivamus in orci lobortis, laoreet ligula in, luctus lacus. Sed nec mattis erat. Ut nec massa diam. Integer ultricies in ante et luctus. Praesent tempus placerat quam, vel efficitur elit ornare quis. Suspendisse diam elit, lacinia vel quam quis, convallis posuere augue. Phasellus sit amet eros ac urna condimentum dictum quis ut metus. Morbi sapien ante, pulvinar sit amet efficitur vel, molestie sit amet lorem. Donec vel pretium massa. Sed eget lectus sed ex gravida tempor quis at diam. Nunc vitae turpis varius, posuere arcu sed, ultricies eros. Cras tincidunt non dolor eu lobortis. Pellentesque egestas, ligula et hendrerit aliquam, nisl metus gravida turpis, non mollis dui velit nec urna.",
+      "categoria": "Finanzas",
+      "id": 7
+    },
+    {
+      "titulo": "scsd",
+      "descripcion": "Cras sodales pretium magna at pretium. Cras dictum vulputate facilisis. Proin est elit, luctus sed luctus nec, fringilla sit amet ex. Suspendisse purus arcu, maximus eget malesuada sed, commodo vel neque. Duis dignissim posuere tellus vel facilisis. Donec nunc metus, tempus sed auctor a, hendrerit et dolor. Nullam interdum rutrum nunc at mattis. Quisque varius enim in velit viverra venenatis vitae vel nunc. Maecenas sed leo lobortis, efficitur risus a, suscipit arcu. Aenean sagittis lorem sit amet quam porttitor, sit amet ultricies sem volutpat. Aliquam imperdiet erat vel magna euismod, et hendrerit urna dignissim. Maecenas luctus efficitur eros at ullamcorper. Donec condimentum augue turpis, at vehicula nibh venenatis eu. Maecenas feugiat magna dolor, congue pulvinar felis sagittis et. Nam suscipit, elit in molestie pretium, turpis nibh pellentesque risus, quis iaculis nisi eros vitae lorem.",
+      "categoria": "Finanzas",
+      "id": 8
+    }
+  ],
+  "usuarios":[
+    {
+      "id": 1,
+      "nombre": "testuser",
+      "apellido": "testLastName",
+      "email": "test@gmail.com",
+      "password": "f27be5e886a8efbfe436f30f60ddd2fc",
+      "username": "testuser"
+
+
+    },
+    {
+      "id": 2,
+      "nombre": "jose",
+      "apellido": "Perez",
+      "email": "pepitoria2@gmail.com",
+      "password": "684c9fd0b05fc81a30ccede911117e2f",
+      "username": "alarod2"
+
+
+    }
+  ]
+}
