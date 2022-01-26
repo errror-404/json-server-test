@@ -40,11 +40,11 @@
   "usuarios":[
     {
       "id": 1,
-      "nombre": "testuser",
-      "apellido": "testLastName",
+      "nombre": "Antonio",
+      "apellido": "de la Cruz",
       "email": "test@gmail.com",
-      "password": "f27be5e886a8efbfe436f30f60ddd2fc",
-      "username": "testuser"
+      "password": "098f6bcd4621d373cade4e832627b4f6",
+      "username": "Antonio"
 
 
     },
